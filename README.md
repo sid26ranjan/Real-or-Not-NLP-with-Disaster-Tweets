@@ -5,3 +5,8 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 
 But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this 
 
+in this notebook i am using tokenizer and pad-sequences with tensorflow to built a model to predict about the target.
+the first model has 14 nodes in the dense layer and the second model has 24 which gave me an accuracy of 87% and 95% respectively.
+
+the dataset is taken from kaggle and this is the link to the same https://www.kaggle.com/c/nlp-getting-started/data
+
